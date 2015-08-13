@@ -1,0 +1,13 @@
+.gradle
+/local.properties
+/.idea/*
+.DS_Store
+/build
+guava-preconditions/build/
+
+.idea
+
+local.properties
+*.iml
+pom.xml
+
