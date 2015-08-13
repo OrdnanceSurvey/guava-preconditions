@@ -9,7 +9,7 @@ This is a tiny subset of the guava project containing only the preconditions (an
 
 include a gradle reference:
 
-    compile 'uk.co.ordnancesurvey.external:guava-preconditions:0.1.0-SNAPSHOT'
+    compile 'uk.co.ordnancesurvey.external:guava-preconditions:0.1.0'
 
 # Maintainer Repo Configuration #
 The maintainer should consider adding the following to their properties file:
